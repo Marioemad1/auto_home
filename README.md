@@ -16,13 +16,19 @@ All lights, AC units, and alarms respond in real time to environmental condition
 
 ### 🔧 Proteus Design:
 <!-- Add screenshot of Proteus here -->
+---
 ![Proteus Simulation](image/proutes.png)
-![Proteus Simulation](image/simulatio_end.png)
-![Proteus Simulation](image/proteus_layout.png)
-![Proteus Simulation](image/proteus_layout.png)
+
+---
+![Proteus Simulation](image/connection2.png)
+
+---
+![Proteus Simulation](image/connection1.png)
+
+---
 ### 💡 System Running:
 <!-- Add photo of simulation running -->
-![System Output](images/system_running.png)
+![Proteus Simulation](image/simulatio_end.png)
 
 ---
 
@@ -144,7 +150,7 @@ flowchart TD
 
 ## 🧠 Author
 
-Mario Emad Boles – [LinkedIn](#) | [YouTube](#)
+Mario Emad Boles – [LinkedIn](#)
 
 This project is part of a larger **smart embedded systems series** focused on real-time home control logic.
 
