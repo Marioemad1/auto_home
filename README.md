@@ -8,10 +8,18 @@ All lights, AC units, and alarms respond in real time to environmental condition
 
 ## 📸 Simulation Previews
 
+###  Arc Design:
+<!-- Add screenshot of Proteus here -->
+---
+![Proteus Simulation](image/the_arc.png)
+---
+
 ### 🔧 Proteus Design:
 <!-- Add screenshot of Proteus here -->
-![Proteus Simulation](images/proteus_layout.png)
-
+![Proteus Simulation](image/proutes.png)
+![Proteus Simulation](image/simulatio_end.png)
+![Proteus Simulation](image/proteus_layout.png)
+![Proteus Simulation](image/proteus_layout.png)
 ### 💡 System Running:
 <!-- Add photo of simulation running -->
 ![System Output](images/system_running.png)
